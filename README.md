@@ -4,7 +4,7 @@
 
 ## 在线体验
 
-将本仓库发布到 GitHub Pages 后，直接访问 `https://<用户名>.github.io/chinese-chess/` 即可在浏览器中对弈。
+直接访问 `(https://ffle-art.github.io/chinese-chess/)` 即可在浏览器中对弈。
 
 ## 功能特性
 
